@@ -1,0 +1,12 @@
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.1/inheritance.deps.json
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.json
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.dev.json
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.1/inheritance.dll
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/bin/Debug/netcoreapp3.1/inheritance.pdb
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.csprojAssemblyReference.cache
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.csproj.CoreCompileInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfoInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfo.cs
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.dll
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.pdb
+/Users/jlcomp45/workspace/csharp/exercises/inheritance/obj/Debug/netcoreapp3.1/inheritance.genruntimeconfig.cache
