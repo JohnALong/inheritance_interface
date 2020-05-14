@@ -4,6 +4,7 @@ namespace inheritance
 {
     public class Vehicle
     {
+        public string Name { get; set; }
         public string MainColor { get; set; }
         public string MaximumOccupancy { get; set; }
 

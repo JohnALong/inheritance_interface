@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace inheritance
 {
@@ -15,5 +16,9 @@ namespace inheritance
         {
             Console.WriteLine("Rrrruuummmmbbbbllleeee!");
         }
+
+        public List<Ram> rams = new List<Ram>();
+
+        
     }
 }
